@@ -75,3 +75,4 @@ websockets==16.0
 xxhash==3.7.0
 yagmail==0.16.0
 zstandard==0.25.0
+google_search_results==2.4.2
